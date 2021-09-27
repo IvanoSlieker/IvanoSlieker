@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @IvanoSlieker
-- 👀 I’m interested in  [ Windows App Development ]
-- 📫 How to reach me [ Discord:Ivano.#9691 ]
+- 📫 How to reach me [ Discord:IvanoSlieker.#1323 ]
 
 <!---
 IvanoSlieker/IvanoSlieker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
